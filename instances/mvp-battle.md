@@ -8,7 +8,7 @@ description: >-
 
 ## **About the Location**
 
-Prepare for an **epic challenge** in _Arkaik: Tales of Sarina_! The <mark style="color:red;">**MVP Battle**</mark> pits players in **solo groups** or **full parties** inside an instance filled with intense battles.
+Prepare for an **epic challenge** in _Arkaik: Tales of Sarina_! The <mark style="color:red;">**MVP Battle**</mark> pits players in **groups** inside an instance filled with intense battles.
 
 ***
 
@@ -16,8 +16,6 @@ Prepare for an **epic challenge** in _Arkaik: Tales of Sarina_! The <mark style=
 
 * Players will face **successive waves of MVPs and Mini Bosses**.
 * The event ends **after defeating all available bosses**.
-* **PvP will be enabled**, making the competition even fiercer.
-* **Increased drop rates**, following the same rules as the **PvP channel&#x20;**<mark style="color:red;">**(+50% Drop)**</mark>.
 * **MVPs will be buffed**, significantly increasing their **HP**, making the battle more challenging.
 * The battle takes place in an **instanced map** in **"**<mark style="color:red;">**Niflheim**</mark>**"**.
 
@@ -39,7 +37,7 @@ Prepare for an **epic challenge** in _Arkaik: Tales of Sarina_! The <mark style=
 
 #### **How to Participate**
 
-* You **must be in a party** <mark style="color:red;">(</mark><mark style="color:red;">**SOLO**</mark> <mark style="color:red;"></mark><mark style="color:red;">or in a</mark> <mark style="color:red;"></mark><mark style="color:red;">**GROUP of up to 11 players**</mark><mark style="color:red;">)</mark>.
+* You **must be in a party and level 90+** <mark style="color:red;">(</mark><mark style="color:red;">**GROUP 3**</mark> <mark style="color:red;"></mark><mark style="color:red;">or in a</mark> <mark style="color:red;"></mark><mark style="color:red;">**GROUP of up to 11 players**</mark><mark style="color:red;">)</mark>.
 * Up to **5 groups can join per instance**. _(If a sixth group enters, a new instance will be created, reallocating new groups to different rooms for competition.)_
 
 {% tabs %}
