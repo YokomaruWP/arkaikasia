@@ -12,6 +12,10 @@ We know that many players no longer have as much time as before, so our proposal
 
 This system allows you to carry out your daily tasks while your character plays automatically for you.
 
+## @akfcombat
+
+VIPs who have an active battle pass and stamina can now use the @afkcombat command, which allows the character to continue auto-combat even when the game is closed (fly wings will not be used when in offline mode).
+
 <table><thead><tr><th width="114">Img</th><th>Name</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/29727.png" alt="" data-size="original"></td><td><strong>30D Stamina:</strong> Allows you to gain 240 minutes (4 hours) of auto-combat per day for 30 days. <br>Every day at 00:00, the 240 minutes will reset to 0/720.</td></tr><tr><td><img src="../.gitbook/assets/29728.png" alt="" data-size="original"></td><td><strong>1D Stamina:</strong> Allows you to gain 360 minutes (6 hours) of auto-combat immediately. Every day at 00:00, the 360 minutes will reset to 0/720.</td></tr></tbody></table>
 
 ## <mark style="color:red;">**Rules**</mark>
