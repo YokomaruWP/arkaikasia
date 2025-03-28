@@ -30,7 +30,7 @@
 
 ***
 
-* [🔁 Ice Arena 3v3](ice-arena-3v3.md)
+* [❄️ Ice Arena 3v3](ice-arena-3v3.md)
 
 ## SYSTEMS
 

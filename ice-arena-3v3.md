@@ -4,7 +4,7 @@ description: >-
   winner, join in.
 ---
 
-# 🔁 Ice Arena 3v3
+# ❄️ Ice Arena 3v3
 
 ## About the 3v3 Tournament
 
@@ -16,6 +16,10 @@ description: >-
 * The Top 3 players will split the cash reward, with <mark style="color:red;">**40% to the top 1 and 30% each to top 2 and top 3**</mark>. Players can participate in the tournament for free, but to win the cash prize, it's necessary to have the tournament “**entry**”, which costs <mark style="color:red;">**10k CP**</mark>.
 * <mark style="color:red;">**The 10k**</mark>[ <mark style="color:blue;">**RMT**</mark>](basics/rmt-rules.md) <mark style="color:red;">**fee will be fully (100%) allocated to the tournament prize pool, as well as the tournament entry fee.**</mark>
 * If a player without an entry wins in the Top 3, the amount will be split among the other 2 winners.
+
+## **Arena Opening Hours**
+
+The Arena will be open in friendly mode **(no scoring)** every day from <mark style="color:red;">**8:00 AM to 9:59 AM**</mark>, from <mark style="color:red;">**3:00 PM to 4:59 PM**</mark>, and from <mark style="color:red;">**7:00 PM to 8:59 PM**</mark>.
 
 ## How to participate
 
