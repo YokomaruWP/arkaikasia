@@ -40,7 +40,7 @@ description: >-
 <figure><img src="../.gitbook/assets/200px-Tw1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Clock Tower - c_tower1</strong> in <strong>Aldebaran</strong>.</mark></p></figcaption></figure>
 
 * Located in the **Clock Tower - c\_tower1** in **Aldebaran**.
-* Appears daily from **21:00 to 21:30** in the <mark style="color:red;">**Clock Tower of Arkaik**</mark>.
+* Appears daily from **8PM to 8:30 PM** in the <mark style="color:red;">**Clock Tower of Arkaik**</mark>.
 * **Alarms** can appear anywhere on the map and accumulate if not defeated.
 {% endtab %}
 
@@ -64,8 +64,8 @@ description: >-
 <figure><img src="../.gitbook/assets/200px-Gl1.png" alt=""><figcaption><p><mark style="color:red;"><strong>Glast Heim Abbey - gl_church</strong>.</mark></p></figcaption></figure>
 
 * Located in **Glast Heim Abbey - gl\_church**.
-* Spawns daily at **21:00** in the <mark style="color:red;">**church of Glast Heim**</mark>.
-* Event ends at **21:30**, but if not defeated, it remains on the map.
+* Spawns daily at **8PM** in the <mark style="color:red;">**church of Glast Heim**</mark>.
+* Event ends at **8:30 PM**, but if not defeated, it remains on the map.
 * **Baphomet Jr.** can spawn in various locations on the map and accumulate if not eliminated.
 {% endtab %}
 
