@@ -55,8 +55,8 @@ The Arena will be open in friendly mode **(no scoring)** every day from <mark st
 ## **NOTES**
 
 * Entering the enemy base (crossing the bridge) results in instant death—your character dies immediately. This is to provide a safe zone for parties to regroup.
-* At 8 minutes into the match, the safe zone is disabled to prevent parties from avoiding combat.
-* At 10 minutes into the match, an Emperium will spawn in the center of the map. The group that destroys it will automatically cause one member of the enemy group to lose a life. The Emperium will then respawn every 1 minute thereafter.
+* At 3 minutes into the match, the safe zone is disabled to prevent parties from avoiding combat.
+* At 4 minutes into the match, an Emperium will spawn in the center of the map. The group that destroys it will automatically cause one member of the enemy group to lose a life. The Emperium will then respawn every 1 minute thereafter.
 * <mark style="color:red;">**Emperium has REDUCED HP, has no immunities, and does not suffer element reduction.**</mark>
 
 ***
