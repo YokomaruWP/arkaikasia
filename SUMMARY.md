@@ -18,7 +18,7 @@
 
 ## EVENTS
 
-* [Waiting EVENT (ASIAN)](events/waiting-event-asian.md)
+* [Race to 99](events/race-to-99.md)
 
 ## INSTANCES
 

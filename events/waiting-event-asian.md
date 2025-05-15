@@ -1,2 +1,0 @@
-# Waiting EVENT (ASIAN)
-
