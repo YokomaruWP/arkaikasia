@@ -12,7 +12,7 @@
 * [📜 In-Game Rules](basics/in-game-rules.md)
 * [📩 How to Open a Ticket](basics/how-to-open-a-ticket.md)
 * [🆘 Support and Help](basics/support-and-help/README.md)
-  * [🪛 Common Issues (Client)Problemas Comuns (Client)](basics/support-and-help/common-issues-client-problemas-comuns-client.md)
+  * [🪛 Common Issues (Client)](basics/support-and-help/common-issues-client.md)
   * [Various Issues](basics/support-and-help/various-issues.md)
   * [🚧 How to Install Arkaik Online](basics/support-and-help/how-to-install-arkaik-online.md)
 

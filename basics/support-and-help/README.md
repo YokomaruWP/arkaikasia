@@ -7,8 +7,8 @@ description: >-
 
 # 🆘 Support and Help
 
-{% content-ref url="common-issues-client-problemas-comuns-client.md" %}
-[common-issues-client-problemas-comuns-client.md](common-issues-client-problemas-comuns-client.md)
+{% content-ref url="common-issues-client.md" %}
+[common-issues-client.md](common-issues-client.md)
 {% endcontent-ref %}
 
 {% content-ref url="various-issues.md" %}
