@@ -4,9 +4,11 @@ description: >-
   Discord or WhatsApp.
 ---
 
-# 🪛 Common Issues (Client)Problemas Comuns (Client)
+# 🪛 Common Issues (Client)
 
 ## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
+
+{% embed url="https://www.youtube.com/watch?v=KKX8Q1Bl_XM" %}
 
 **Cause:**
 
@@ -16,14 +18,15 @@ description: >-
 Go to:\
 ➡ **Windows Security** > **App & Browser Control** > **Exploit Protection Settings** > **Program Settings (Top Tab)** > **(+) Add a Program to Customize**
 
-Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)\
-
+Type `Client.exe` and enable all processes. (Check all selection boxes; some may be enabled by default—disable them as well if necessary.)
 
 <figure><img src="../../.gitbook/assets/image (149).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt="" width="410"><figcaption></figcaption></figure>
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
+
+{% embed url="https://youtu.be/eieXrH5uqQA" %}
 
 **Cause:**
 
@@ -37,6 +40,8 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 📌 **Image:** Same procedure as above!
 
 ## **Error: Cannot find File with special characters "????"**
+
+{% embed url="https://youtu.be/C6RVwseshbI" %}
 
 **Problem:**
 
@@ -56,6 +61,8 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 <figure><img src="../../.gitbook/assets/image (152).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
+
+{% embed url="https://youtu.be/CL2Sr_BZiGI" %}
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -117,6 +124,8 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
 
+{% embed url="https://youtu.be/g2FlbuhB0fU" %}
+
 **Problem:**
 
 * When opening **Arkaik.exe**, during the module loading process, a **red error** appears stating:\
@@ -152,6 +161,8 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error: Failed to get updates URL (when opening arkaik.exe)**
 
+{% embed url="https://youtu.be/PoZLYcNNciE" %}
+
 **Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
 
 **Solution:** Download **https://1.1.1.1**. If the issue persists, **Cloudflare** can optimize the best route for your internet.
@@ -159,6 +170,8 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 <figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 ## **Colored Squares Screen When Running Client.exe**
+
+
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
