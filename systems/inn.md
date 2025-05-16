@@ -7,7 +7,7 @@ description: >-
 
 # 🛏️ Inn
 
-<figure><img src="../.gitbook/assets/Estalagem.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Inn System**
 
