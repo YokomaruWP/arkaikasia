@@ -5,7 +5,7 @@
 * [🖥️ Server Information](README.md)
 * [📘 Arkaik Introduction Guide](basics/arkaik-introduction-guide.md)
 * [🔝 Vote Points](basics/vote-points.md)
-* [👑 VIP (PREMIUM) System](basics/vip-premium-system.md)
+* [👑 VIP System (PREMIUM)](basics/vip-system-premium.md)
 * [✅ Become a PARTNER](basics/become-a-partner.md)
 * [🖱️ HUD & Interface](basics/hud-and-interface.md)
 * [⚠️ RMT RULES](basics/rmt-rules.md)
