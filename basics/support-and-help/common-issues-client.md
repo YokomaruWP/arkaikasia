@@ -8,7 +8,7 @@ description: >-
 
 ## Arkaik.exe opens, but when clicking "Play," nothing happens, and it closes
 
-{% embed url="https://www.youtube.com/watch?v=KKX8Q1Bl_XM" %}
+{% embed url="https://youtu.be/alrPDAo3cx0" %}
 
 **Cause:**
 
@@ -26,7 +26,7 @@ Type `Client.exe` and enable all processes. (Check all selection boxes; some may
 
 ## **Arkaik.exe does not open, is not in the task manager, and no error appears**
 
-{% embed url="https://youtu.be/eieXrH5uqQA" %}
+{% embed url="https://youtu.be/7MElYRZ4p8w" %}
 
 **Cause:**
 
@@ -41,7 +41,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 ## **Error: Cannot find File with special characters "????"**
 
-{% embed url="https://youtu.be/C6RVwseshbI" %}
+{% embed url="https://youtu.be/2HYe4efWQus" %}
 
 **Problem:**
 
@@ -62,7 +62,7 @@ Type **Arkaik.exe** and enable all processes. (Check all selection boxes; some m
 
 ## **Error in Client.exe: "Cannot init d3d OR grf file has problem" or White Screen**
 
-{% embed url="https://youtu.be/CL2Sr_BZiGI" %}
+{% embed url="https://youtu.be/Spq8HxAYCW0" %}
 
 <figure><img src="../../.gitbook/assets/Cannot_init_d3d_or_grf_file_has_problem.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -124,7 +124,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error Loading Arkaik.exe Modules Before the Login Screen (Date & Time)**
 
-{% embed url="https://youtu.be/g2FlbuhB0fU" %}
+{% embed url="https://youtu.be/_AesF-DFHbs" %}
 
 **Problem:**
 
@@ -161,7 +161,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Error: Failed to get updates URL (when opening arkaik.exe)**
 
-{% embed url="https://youtu.be/PoZLYcNNciE" %}
+{% embed url="https://youtu.be/zMdliegZya8" %}
 
 **Problem:** When running **arkaik.exe**, an update error appears: **"Failed to get updates URL"**, meaning the update server rejected the connection.
 
@@ -171,7 +171,7 @@ If the game **runs but has errors** (_like missing textures or incorrect visuals
 
 ## **Colored Squares Screen When Running Client.exe**
 
-
+{% embed url="https://youtu.be/b4LLXuUrKoc" %}
 
 <figure><img src="../../.gitbook/assets/800px-Tela_com_quadrados_coloridos_arkaik_online.png" alt="" width="563"><figcaption></figcaption></figure>
 
