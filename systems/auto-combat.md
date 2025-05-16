@@ -43,7 +43,7 @@ To avoid penalties, play fairly and use only the resources provided by the offic
 
 ## **Basic Functions**
 
-<figure><img src="../.gitbook/assets/autopot.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/112.png" alt=""><figcaption></figcaption></figure>
 
 ## **Setting Up Auto-Combat in Hotkeys**
 
@@ -52,7 +52,7 @@ To avoid penalties, play fairly and use only the resources provided by the offic
   &#xNAN;_(Golden Fly Wing does not need to be in these slots to be used.)_
 * _List of allowed items for F6 to F10._
 
-<figure><img src="../.gitbook/assets/ps2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3444.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th>ID</th><th width="660">Nome do Consumível</th></tr></thead><tbody><tr><td>501</td><td><img src="../.gitbook/assets/501.png" alt="" data-size="line"> Red Potion</td></tr><tr><td>502</td><td><img src="../.gitbook/assets/502.png" alt="" data-size="line"> Orange Potion</td></tr><tr><td>503</td><td><img src="../.gitbook/assets/503.png" alt="" data-size="line"> Yellow Potion</td></tr><tr><td>504</td><td><img src="../.gitbook/assets/504.png" alt="" data-size="line"> White Potion</td></tr><tr><td>507</td><td><img src="../.gitbook/assets/507.png" alt="" data-size="line"> Red Herb</td></tr><tr><td>508</td><td><img src="../.gitbook/assets/508.png" alt="" data-size="line"> Yellow Herb</td></tr><tr><td>509</td><td><img src="../.gitbook/assets/509.png" alt="" data-size="line"> White Herb</td></tr><tr><td>569</td><td><img src="../.gitbook/assets/569.png" alt="" data-size="line"> Novice Potion</td></tr><tr><td>547</td><td><img src="../.gitbook/assets/547.png" alt="" data-size="line"> Compact White Potion</td></tr><tr><td>546</td><td><img src="../.gitbook/assets/546.png" alt="" data-size="line"> Compact Yellow Potion</td></tr><tr><td>545</td><td><img src="../.gitbook/assets/545.png" alt="" data-size="line"> Compact Red Potion</td></tr><tr><td>505</td><td><img src="../.gitbook/assets/505.png" alt="" data-size="line"> Blue Potion</td></tr><tr><td>578</td><td><img src="../.gitbook/assets/578.png" alt="" data-size="line"> Strawberry</td></tr><tr><td>568</td><td><img src="../.gitbook/assets/568.png" alt="" data-size="line"> Lemon</td></tr><tr><td>510</td><td><img src="../.gitbook/assets/510.png" alt="" data-size="line"> Blue Herb</td></tr><tr><td>11563</td><td><img src="../.gitbook/assets/11563.png" alt="" data-size="line"> Hot Tea</td></tr><tr><td>29732</td><td><img src="../.gitbook/assets/505 (1).png" alt="" data-size="line"> Reformulated Blue Potion</td></tr></tbody></table>
 
