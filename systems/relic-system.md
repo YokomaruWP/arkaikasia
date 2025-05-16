@@ -6,7 +6,7 @@ description: >-
 
 # 📜 Relic System
 
-<figure><img src="../.gitbook/assets/Reliquias.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (532).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Relic Acquisition**
 

@@ -6,7 +6,7 @@ description: >-
 
 # ✨ Aura System
 
-<figure><img src="../.gitbook/assets/Aurawiki.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (531).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * It allows players to customize the appearance and abilities of their characters through special auras, which not only provide unique visual effects but can also impact attributes and game mechanics.
 * This system is designed to offer dynamic benefits in combat and social interactions, as well as highlight the player's individuality in the game world.

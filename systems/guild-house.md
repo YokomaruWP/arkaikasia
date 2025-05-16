@@ -6,7 +6,7 @@ description: >-
 
 # 🏰 Guild House
 
-<figure><img src="../.gitbook/assets/Guildhouse.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (533).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## About the Guild House
 
