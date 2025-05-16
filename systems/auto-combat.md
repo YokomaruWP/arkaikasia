@@ -65,7 +65,7 @@ When using **auto-combat**, an icon will appear above your character, and it wil
 ## **Every time I restart the game, my daily limit decreases**
 
 Yes, every time you use **stamina** and **relog**, the system recalculates the remaining stamina for the day.\
-For example, if your stamina was <mark style="color:red;">**0/600**</mark> and you used 5 minutes, it would become <mark style="color:red;">**5/600**</mark>, and after relogging, it would be <mark style="color:red;">**0/595**</mark>.\
+For example, if your stamina was <mark style="color:red;">**0/720**</mark> and you used 5 minutes, it would become <mark style="color:red;">**5/720**</mark>, and after relogging, it would be <mark style="color:red;">**0/715**</mark>.\
 \
 **See the examples below:**
 
