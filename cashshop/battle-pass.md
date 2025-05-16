@@ -4,7 +4,7 @@ description: Battle Progression System Earn rewards by completing missions.
 
 # 🎫 Battle Pass
 
-<figure><img src="../.gitbook/assets/image (177).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
 
 ## **Where to Purchase the Premium Pass?**
 
@@ -18,20 +18,20 @@ You can purchase it by accessing the **store** and buying a package labeled **Ba
 
 <mark style="color:red;">**Value may be changed (ASIA)**</mark>
 
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12344.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (180).png" alt="" width="417"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/55544.png" alt="" width="365"><figcaption></figcaption></figure>
 
 ## **How to collect Battle Pass EXP?**
 
 * Collecting EXP is very simple. Follow the tips below to receive rewards.
 * You must complete a mission in the MISSIONS tab.
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/123333333 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. After this, click the **COLLECT** button to receive your rewards.
 
-<figure><img src="../.gitbook/assets/image (182).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6958.png" alt=""><figcaption></figcaption></figure>
 
 ## **How does the Mission System work?**
 

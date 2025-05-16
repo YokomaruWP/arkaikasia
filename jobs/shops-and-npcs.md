@@ -6,7 +6,7 @@ description: >-
 
 # 🛒 Shops and NPCs
 
-<figure><img src="../.gitbook/assets/Lojaequi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (539).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **About "Equipment Shops"**
 
