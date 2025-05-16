@@ -65,13 +65,13 @@ When using **auto-combat**, an icon will appear above your character, and it wil
 ## **Every time I restart the game, my daily limit decreases**
 
 Yes, every time you use **stamina** and **relog**, the system recalculates the remaining stamina for the day.\
-For example, if your stamina was <mark style="color:red;">**0/720**</mark> and you used 5 minutes, it would become <mark style="color:red;">**5/720**</mark>, and after relogging, it would be <mark style="color:red;">**0/715**</mark>.\
+For example, if your stamina was <mark style="color:red;">**0/1079**</mark> and you used 5 minutes, it would become <mark style="color:red;">**10/1079**</mark>, and after relogging, it would be <mark style="color:red;">**0/1069**</mark>.\
 \
 **See the examples below:**
 
-<figure><img src="../.gitbook/assets/Arkaik_yUBLUV44PG.png" alt="" width="272"><figcaption><p><mark style="color:red;"><strong>After spending 5 minutes.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (541).png" alt=""><figcaption><p><mark style="color:red;"><strong>After spending 5 minutes.</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Arkaik_HT3kaWKVym.png" alt="" width="286"><figcaption><p><mark style="color:red;"><strong>After relogging.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (542).png" alt=""><figcaption><p><mark style="color:red;"><strong>After relogging.</strong></mark></p></figcaption></figure>
 
 ## <mark style="color:red;">**FAQ**</mark>
 
