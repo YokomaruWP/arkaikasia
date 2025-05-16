@@ -4,6 +4,8 @@ description: How about testing your luck in a toy machine? Maybe luck is on your
 
 # 🎰 Prize Wheel
 
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Prize Roulette**
 
 * **Mechanics:** Players spend <mark style="color:red;">**250k zeny**</mark>**&#x20;per spin**, receiving random items.

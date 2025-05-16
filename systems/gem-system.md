@@ -6,6 +6,8 @@ description: >-
 
 # ⚛️ Gem System
 
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="News " %}
 * **All Gems have been updated** <mark style="color:red;">(</mark><mark style="color:red;">**27/02/25**</mark><mark style="color:red;">)</mark>.

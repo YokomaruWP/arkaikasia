@@ -4,6 +4,8 @@ description: Every equipment has its potential and durability.
 
 # 💪 Potential System
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Potential System**
 
 * <mark style="color:red;">**Equipment now has 2 new attributes**</mark> that may seem confusing at first, **but here we explain what each one does.**
