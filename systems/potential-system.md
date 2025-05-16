@@ -8,7 +8,7 @@ description: Every equipment has its potential and durability.
 
 * <mark style="color:red;">**Equipment now has 2 new attributes**</mark> that may seem confusing at first, **but here we explain what each one does.**
 
-<figure><img src="../.gitbook/assets/Poten.png" alt=""><figcaption><p><mark style="color:red;"><strong>Como identificar o Potencial e a Durabilidade</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Poten.png" alt=""><figcaption><p><mark style="color:red;"><strong>How to Identify Potential and Durability</strong></mark></p></figcaption></figure>
 
 ## 📍 How to Identify Potential and Durability
 

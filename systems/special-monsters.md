@@ -7,11 +7,11 @@ description: >-
 
 # 👾 Special Monsters
 
-<figure><img src="../.gitbook/assets/Monstrosespecial.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (534).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Differences Between Champion Monsters and Special Monsters**
 
-* <mark style="color:red;">**10 times more experience**</mark> <mark style="color:red;"></mark><mark style="color:red;">and</mark> <mark style="color:red;"></mark><mark style="color:red;">**3 times higher drop rate**</mark>, special monsters also <mark style="background-color:red;">**drop unique items**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">used in</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**crafting powerful equipment**</mark> _(e.g., Prontera Dungeon)_.
+* <mark style="color:red;">**10 times more experience**</mark> <mark style="color:red;"></mark><mark style="color:red;">and</mark> <mark style="color:red;"></mark><mark style="color:red;">**3 times higher drop rate**</mark>, special monsters also <mark style="background-color:red;">**drop unique items**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">used in</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**crafting powerful equipment**</mark> _( Prontera Dungeon)_.
 
 ***
 

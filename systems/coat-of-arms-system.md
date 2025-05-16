@@ -4,6 +4,8 @@ description: Choose your crest, as it defines the initial path of your class.
 
 # 🛡️ Coat of Arms System
 
+<figure><img src="../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### **About the Emblem**
 
 * Upon graduating from the **Protectors Academy**, you must choose which emblem your character will have by speaking with <mark style="color:red;">**Director Roosevelt**</mark><mark style="color:orange;">.</mark>

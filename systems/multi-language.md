@@ -7,6 +7,8 @@ description: >-
 
 # 🌎 Multi-Language
 
+<figure><img src="../.gitbook/assets/image (535).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **About the Multi-Language System**
 
 * In **Arkaik: Tales of Sarina**, the **multi-language system** was introduced to solve an existing issue.

@@ -6,6 +6,8 @@ description: >-
 
 # ⛏️ Mining System
 
+<figure><img src="../.gitbook/assets/image (536).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **Mining System**
 
 * The **mining system** in **Arkaik** involves extracting **specific ores** that can be **refined** or used to **craft equipment and items**.
