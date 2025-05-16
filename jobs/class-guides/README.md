@@ -4,6 +4,8 @@ description: Find information about all classes in Arkaik Online right here!
 
 # 📗 Class Guides
 
+<figure><img src="../../.gitbook/assets/image (538).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## **Professions and Class Evolution**
 
 * Professions—or **classes**—function as an evolution path that you choose to strengthen your character with exclusive skills.
