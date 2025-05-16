@@ -6,7 +6,7 @@ description: >-
 
 # 👑 VIP (PREMIUM) System
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Differences Between Normal Player and VIP Player
 
