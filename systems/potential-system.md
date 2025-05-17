@@ -4,7 +4,7 @@ description: Every equipment has its potential and durability.
 
 # 💪 Potential System
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **About the Potential System**
 
