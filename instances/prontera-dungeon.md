@@ -42,7 +42,7 @@ description: >-
 * To cancel the interaction, you can choose the option **"**<mark style="color:red;">**No way...**</mark>**"**.
 * To leave the room, simply select **"**<mark style="color:red;">**Get out of here**</mark>**"**.
 
-<figure><img src="../.gitbook/assets/0009544.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the RECRUITER NPC</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/441 (2).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the RECRUITER NPC</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Crafts" %}
@@ -54,7 +54,7 @@ description: >-
 * **Other items cannot be obtained within the instance**.
 * Some items can be acquired by defeating <mark style="color:red;">**\[SPECIAL MONSTERS**</mark>**]**.
 
-<figure><img src="../.gitbook/assets/00095445.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the "CRAFTS" NPC</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/pry.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Interaction with the "CRAFTS" NPC</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="TIER 0" %}
