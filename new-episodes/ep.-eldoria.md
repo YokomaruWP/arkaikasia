@@ -13,7 +13,7 @@ description: >-
 * After completing your first job change, you will be ready to begin your journey to <mark style="color:red;">**Eldoria**</mark>.
 * In any city, go to a <mark style="color:red;">**Kafra**</mark>, click on her, select the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and choose the city of **"**<mark style="color:red;">**Zero**</mark>**"**. Then, go to the NPC **"**<mark style="color:red;">**Joshua**</mark>**"** to start the main quest.
 
-<figure><img src="../.gitbook/assets/12333.png" alt=""><figcaption><p><mark style="color:red;"><strong>Quest start for access to "Eldoria</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12333 (2).png" alt=""><figcaption><p><mark style="color:red;"><strong>Quest start for access to "Eldoria</strong></mark></p></figcaption></figure>
 
 ## Main Quest
 

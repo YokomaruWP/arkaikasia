@@ -32,7 +32,7 @@ description: >-
 * By completing <mark style="color:red;">**daily missions**</mark> in cities, you earn points and can exchange them for **"**<mark style="color:red;">**Mastery Bags**</mark>**"**.
 * Next to the NPC, there will be a **stone mural**. Simply click on the **"**<mark style="color:red;">**Mural**</mark>**"** and choose a mission.
 
-<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>Daily Quest Exchange NPC.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44444 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Daily Quest Exchange NPC.</strong></mark></p></figcaption></figure>
 
 ### MVPS
 

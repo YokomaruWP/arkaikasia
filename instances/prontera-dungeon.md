@@ -18,19 +18,19 @@ description: >-
 * You can check its location on the <mark style="color:red;">**MINIMAP**</mark>.
 * You will find a portal with some guards—just enter.
 
-<figure><img src="../.gitbook/assets/213.png" alt=""><figcaption><p><mark style="color:red;"><strong>Location on the "Mini Map" of Prontera</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12333 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Location on the "Mini Map" of Prontera</strong></mark></p></figcaption></figure>
 
 ## **How to Access the Location**
 
 * Go to the nearest <mark style="color:red;">**Kafra**</mark> in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
 * <mark style="color:red;">**Go to Prontera**</mark>**.**
 
-<figure><img src="../.gitbook/assets/bb1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/878.gif" alt=""><figcaption></figcaption></figure>
 
 * After that, head <mark style="color:red;">**north of Prontera**</mark> until you find the <mark style="color:red;">**guards and a portal**</mark>.
 * Then, simply enter the <mark style="color:red;">**portal**</mark>.
 
-<figure><img src="../.gitbook/assets/bb2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/0999.gif" alt=""><figcaption></figcaption></figure>
 
 ## **Which NPCs Exist Inside?**
 
@@ -149,11 +149,11 @@ Recruiter
 * You will then be **teleported** to the NPC **"Recruiter"**, who will send you out of the instance.
 * Upon leaving the instance, you will receive **"**<mark style="color:red;">**20 Fire Essence Fragments**</mark>**"**, which can be used to craft **equipment** at the NPC **"**<mark style="color:red;">**CRAFTS**</mark>**"**
 
-<figure><img src="../.gitbook/assets/4441111.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Received After Completing the Instance</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44444.png" alt=""><figcaption><p><mark style="color:red;"><strong>Item Received After Completing the Instance</strong></mark></p></figcaption></figure>
 
 * **Item Received After Completing the Instance**
 
-| Item                             | Nome           | Chance                                    |
-| -------------------------------- | -------------- | ----------------------------------------- |
-| ![](../.gitbook/assets/2433.png) | Diabolus Boots | <mark style="color:red;">**0.15%**</mark> |
-| ![](../.gitbook/assets/2345.png) | Fire Armor     | <mark style="color:red;">**0.6%**</mark>  |
+| Item                                                                                                     | Nome               | Chance                                    |
+| -------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>     | Diabolus Boots     | <mark style="color:red;">**0.15%**</mark> |
+| <div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div> | Blazing Fury Armor | <mark style="color:red;">**0.6%**</mark>  |
