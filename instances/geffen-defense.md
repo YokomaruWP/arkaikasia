@@ -73,4 +73,4 @@ It is an **instance** located in the city of **Geffen**, near the **southern Kaf
 * After completing the instance, you will receive **"**<mark style="color:red;">**Darkness Fragment**</mark>**"**, which can be exchanged with the NPC **"**<mark style="color:red;">**Astral Oracle**</mark>**"**.
 * <mark style="background-color:green;">**The higher the difficulty level, the better the rewards**</mark>**.**
 
-<figure><img src="../.gitbook/assets/gffe23232.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
