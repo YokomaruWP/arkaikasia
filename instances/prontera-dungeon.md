@@ -6,7 +6,7 @@ description: >-
 
 # ⚔️ Prontera Dungeon
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **What is the Prontera Dungeon?**
 
@@ -153,7 +153,7 @@ Recruiter
 
 * **Item Received After Completing the Instance**
 
-| Item                                                                                                         | Nome               | Chance                                    |
-| ------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------------------------------- |
-| <div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>     | Diabolus Boots     | <mark style="color:red;">**0.15%**</mark> |
-| <div><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div> | Blazing Fury Armor | <mark style="color:red;">**0.6%**</mark>  |
+| Item                                                                                                             | Nome               | Chance                                    |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------- |
+| <div><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>     | Diabolus Boots     | <mark style="color:red;">**0.15%**</mark> |
+| <div><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div> | Blazing Fury Armor | <mark style="color:red;">**0.6%**</mark>  |
