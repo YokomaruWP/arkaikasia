@@ -33,7 +33,7 @@ description: >-
 * After creating it, click on **"**<mark style="color:red;">**Enter Dungeon**</mark>**"**.
 * Make sure you are in a **party&#x20;**<mark style="color:red;">**(ALT+Z)**</mark> before entering the instance.
 
-<figure><img src="../.gitbook/assets/bb23343.gif" alt=""><figcaption><p><mark style="color:red;"><strong>Going to the Endless Tower</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0999 (1).gif" alt=""><figcaption><p><mark style="color:red;"><strong>Going to the Endless Tower</strong></mark></p></figcaption></figure>
 
 ## **Tower Mechanics**
 
