@@ -18,7 +18,7 @@ description: >-
 * Go to the **nearest Kafra** in your city, click on the **"**<mark style="color:red;">**Teleport**</mark>**"** option, and select the city.
 * <mark style="color:red;">**Go to Alberta**</mark>**.**
 
-<figure><img src="../.gitbook/assets/bb233.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Reach Your Destination: Alberta</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4123.gif" alt=""><figcaption><p><mark style="color:red;"><strong>How to Reach Your Destination: Alberta</strong></mark></p></figcaption></figure>
 
 ## **NPC Location**
 
