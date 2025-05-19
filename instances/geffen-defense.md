@@ -42,7 +42,7 @@ It is an **instance** located in the city of **Geffen**, near the **southern Kaf
 * Difficulty levels vary: **Easy, Normal, Hard, Expert**.
 * After completing the instance, the entrance portal is closed, and no party members can re-enter. _(Bring a Sage to resurrect if you die after completion.)_
 
-<figure><img src="../.gitbook/assets/gffe22.png" alt=""><figcaption><p><mark style="color:red;"><strong>Responsible for opening the Geffen Defense instance.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (573).png" alt=""><figcaption><p><mark style="color:red;"><strong>Responsible for opening the Geffen Defense instance.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Astral Oracle" %}
