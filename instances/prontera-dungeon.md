@@ -70,26 +70,9 @@ description: >-
 {% endtab %}
 
 {% tab title="TIER 2" %}
-## Armas Fabricadas - TIER 2
+## **Crafted Weapons** - TIER 2
 
-#### <mark style="color:red;">**(Not Implemented Yet)**</mark>
-
-| Image       | Job           |
-| ----------- | ------------- |
-| Coming Soon | Bard & Dancer |
-| Coming Soon | Knight        |
-| Coming Soon | All           |
-| Coming Soon | Priest        |
-| Coming Soon | Rogue         |
-| Coming Soon | Crusader      |
-| Coming Soon | Wizard        |
-| Coming Soon | Monk          |
-| Coming Soon | Sage          |
-| Coming Soon | All           |
-| Coming Soon | Assasin       |
-| Coming Soon | Blacksmith    |
-| Coming Soon | Hunter        |
-| Coming Soon | Alchimist     |
+<table><thead><tr><th>Image</th><th width="120">Job</th><th>Crafting items</th></tr></thead><tbody><tr><td><div><figure><img src="../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure></div></td><td>Bard &#x26; Dancer</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (559).png" alt=""><figcaption></figcaption></figure></div></td><td>Knight</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure></div></td><td>All</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure></div></td><td>Priest</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure></div></td><td>Rogue</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure></div></td><td>Crusader</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure></div></td><td>Wizard</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure></div></td><td>Monk</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure></div></td><td>Sage</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (568).png" alt=""><figcaption></figcaption></figure></div></td><td>All</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure></div></td><td>Assasin</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure></div></td><td>Blacksmith</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure></div></td><td>Hunter</td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure></div></td><td>Alchimist</td><td></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
