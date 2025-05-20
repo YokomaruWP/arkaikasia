@@ -1,5 +1,21 @@
 ---
 description: Buy and sell items in a unified way, no more looking for shops.
+cover: .gitbook/assets/5123.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💹 Global Market
