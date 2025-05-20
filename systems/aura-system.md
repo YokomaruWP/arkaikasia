@@ -17,7 +17,7 @@ description: >-
 
 {% tabs %}
 {% tab title="NPC" %}
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Mestre da Aura</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC Mestre da Aura</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Location" %}
