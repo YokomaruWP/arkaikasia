@@ -11,7 +11,9 @@ description: >-
 * They can be considered as an ascension, someone of extreme greatness in both body and mind.
 * Endowed with a power beyond the material planes, this class seeks balance in its eternal quest to become a complete warrior.
 
-{% embed url="https://www.youtube.com/watch?v=0xKEQEJxgzw" %}
+{% embed url="https://youtu.be/0BzGIVuIfVE" %}
+<mark style="color:red;">**Video Quest Monk (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

@@ -11,7 +11,9 @@ description: >-
 * These profound masters of the elements can wield fire, water, earth, and lightning...
 * However, despite all their power, they struggle to survive alone, unable to withstand strong blows.
 
-{% embed url="https://www.youtube.com/watch?v=-0dlne9Qq0o" %}
+{% embed url="https://youtu.be/U0V75_pTSMs" %}
+<mark style="color:red;">**Video Quest Wizard (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

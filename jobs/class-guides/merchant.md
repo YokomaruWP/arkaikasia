@@ -12,7 +12,9 @@ description: >-
 * The only battle skill they possess uses their precious **zeny**, but every cent is well spent on destructive power.
 * Upon reaching **class level 40**, they can evolve into **Blacksmiths** or **Alchemists**.
 
-{% embed url="https://www.youtube.com/watch?v=Prwtn6XMTwU" %}
+{% embed url="https://youtu.be/9seCWfVDaLk" %}
+<mark style="color:red;">**Video Quest Merchant (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

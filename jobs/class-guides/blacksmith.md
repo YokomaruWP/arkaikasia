@@ -9,7 +9,9 @@ description: Masters of forging, the perfect Blacksmith.
 * **Blacksmiths** can choose between two paths: forging powerful elemental weapons or possessing overwhelming strength capable of defeating the greatest adversaries.
 * As great connoisseurs of minerals, they can find them in the most unexpected places and refine them like no other class.
 
-{% embed url="https://www.youtube.com/watch?v=rNQ47H8IauY" %}
+{% embed url="https://youtu.be/0gddccs1maQ" %}
+<mark style="color:red;">**Video Quest Blacksmith (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

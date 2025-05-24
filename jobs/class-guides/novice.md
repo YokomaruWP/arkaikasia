@@ -11,7 +11,9 @@ description: >-
 * In the Protectors' Academy, the apprentice will learn to master these skills to survive the challenges ahead.
 * Additionally, after completing the training, the player can choose from various Badges, which will guide them to the hall where they will select their first class and begin their new adventure in the world of Midgard.
 
-{% embed url="https://www.youtube.com/watch?v=nk8nludE98E" %}
+{% embed url="https://youtu.be/h8uvlv2cHK0" %}
+<mark style="color:red;">**Video Quest Novice (English)**</mark>
+{% endembed %}
 
 ## **Skills**
 

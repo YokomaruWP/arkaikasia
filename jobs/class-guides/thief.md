@@ -12,7 +12,9 @@ description: >-
 * They are specialists in the arts of poison and can use good armor, one-handed swords, and even bows and arrows.
 * Upon reaching class level 40, they can advance to Mercenaries or Rogues.
 
-{% embed url="https://www.youtube.com/watch?v=1IWZp8ifduE" %}
+{% embed url="https://youtu.be/HSqB1PWWsb0" %}
+<mark style="color:red;">**Video Quest Thief (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

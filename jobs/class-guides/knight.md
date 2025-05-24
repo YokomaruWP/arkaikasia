@@ -9,7 +9,9 @@ description: An unstoppable force, the symbol of heroism—the Knights of Rune-M
 * The **gallant Knights**, mounted on their **Peco-Pecos**, which increase their speed and spear damage, are capable of striking fear into even the most formidable opponents.
 * They can either have the **defense of an unbreakable wall** or wield **unbelievable speed** with their mighty **two-handed swords**.
 
-{% embed url="https://www.youtube.com/watch?v=OdWygECRo30" %}
+{% embed url="https://youtu.be/NEzxcH4eBy4" %}
+<mark style="color:red;">**Video Quest Knight (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

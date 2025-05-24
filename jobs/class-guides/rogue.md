@@ -11,7 +11,9 @@ description: >-
 * Like any scoundrel, they can strip their opponent’s armor in the blink of an eye while still dealing massive damage.
 * Rogues are certainly a great choice for those who wish to specialize in the dark arts of mimicry or delve deeper into archery.
 
-{% embed url="https://www.youtube.com/watch?v=62h_BXegB3A" %}
+{% embed url="https://youtu.be/jmQ0gLOEBss" %}
+<mark style="color:red;">**Video Quest Rogue (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

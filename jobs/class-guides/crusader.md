@@ -11,7 +11,9 @@ description: >-
 * Unlike the knights, this class specialized in the care and riding of **Grand Pecos**, which are abundant in the **Republic of Schwarzwald**.
 * Driven by strong faith and mastery of shield usage, they adapted to the conditions of **defending their allies**, receiving all the damage that each party member takes in combat.
 
-{% embed url="https://www.youtube.com/watch?v=_iKnJlndkcY" %}
+{% embed url="https://youtu.be/UWghQh6kP1I" %}
+<mark style="color:red;">**Video Quest Crusader (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

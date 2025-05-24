@@ -10,7 +10,9 @@ description: Alchemists specialize in potions and the creation of life.
 * With science, **Alchemists** can create potions far more powerful than those sold in stores.
 * Not limiting themselves to the simple breath of life, they also research **war tactics**, using easily throwable bombs.
 
-{% embed url="https://www.youtube.com/watch?v=X5a59QbEdms" %}
+{% embed url="https://youtu.be/oEeefpcAJ5c" %}
+<mark style="color:red;">**Video Quest Alchemist (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

@@ -11,7 +11,9 @@ description: >-
 * Dedicated to making the world a better place, they support others or take matters into their own hands, freeing the world from the legions of monsters of darkness.
 * Upon reaching **class level 40**, they can evolve into **Priests** or **Monks**.
 
-{% embed url="https://www.youtube.com/watch?v=GSbelbClv60" %}
+{% embed url="https://youtu.be/uZJu2gFbqf8" %}
+<mark style="color:red;">**Video Quest Acolyte (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

@@ -10,7 +10,9 @@ description: >-
 
 * Using their impressive speed with bow and arrow, these warriors are capable of avoiding close combat, making use of various traps.
 
-{% embed url="https://www.youtube.com/watch?v=DUwJsO8HW3o" %}
+{% embed url="https://youtu.be/XPN4EZGbyVY" %}
+<mark style="color:red;">**Video Quest Hunter (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}

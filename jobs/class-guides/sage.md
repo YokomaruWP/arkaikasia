@@ -9,7 +9,9 @@ description: Sages have studied to enhance their initial Mage spells.
 * They harness the elements to grant special powers to their allies' weapons and use abilities to enchant the ground, aiding their comrades with a combination of spells.
 * Sages can also manipulate the elements to counter even the most powerful spells, making them an indispensable support in any group.
 
-{% embed url="https://www.youtube.com/watch?v=y06uXDHDhXU" %}
+{% embed url="https://youtu.be/uXogkAlRFRw" %}
+<mark style="color:red;">**Video Quest Sage (English)**</mark>
+{% endembed %}
 
 {% tabs %}
 {% tab title="Skills " %}
