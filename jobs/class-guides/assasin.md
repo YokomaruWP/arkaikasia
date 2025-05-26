@@ -10,7 +10,7 @@ description: >-
 
 * Capable of wielding both katars, which enhance critical attacks and ignore defense, and daggers, which take advantage of dual attack (as well as one-handed axes and swords), they can deal unparalleled damage in just a few strikes.
 
-{% embed url="https://www.youtube.com/watch?v=iVdz2UKJFH4" %}
+{% embed url="https://youtu.be/ebw1rR5WrnU" %}
 
 {% tabs %}
 {% tab title="Skills " %}
