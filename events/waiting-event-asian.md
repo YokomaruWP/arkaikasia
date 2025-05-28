@@ -10,7 +10,7 @@ description: >-
 
 ## Exclusive Visuals of the race Winners
 
-* <mark style="color:red;">**All 56 participants**</mark>
+* <mark style="color:red;">**All 14 participants**</mark>
 
 ## **How to check the rank**
 
