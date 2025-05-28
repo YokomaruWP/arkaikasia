@@ -18,7 +18,7 @@ description: >-
 * **Archers** can create various types of **arrows**, each with different **elemental** properties and status effects.
 * To craft arrows, simply open **ALT+S** and select the **"Make Arrow"** skill.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
 
 ### Arrow
 
