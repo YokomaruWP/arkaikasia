@@ -20,9 +20,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC LEVEL RACE</strong></mark></p></figcaption></figure>
 
-| Participating Classes:                                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><ul><li>Novice, Knight, Crusader, Hunter, Bard/Dancer, Wizard, Sage, Blacksmith, Alchemist, Rogue, Priest, Monk.</li><li>In total, <strong>there will be 56 winners</strong>: the top 2 of each class in each category (with and without EXP bonus).</li></ul> |
+| Participating Classes:                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p></p><ul><li>Novice, Knight, Crusader, Hunter, Bard/Dancer, Wizard, Sage, Blacksmith, Alchemist, Rogue, Assasin, Priest, Monk.</li><li>In total, <strong>there will be 14 winners</strong></li></ul> |
 
 ## Rewards
 
