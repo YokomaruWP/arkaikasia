@@ -10,7 +10,9 @@ description: >-
 
 ## Exclusive Visuals of the race Winners
 
-* <mark style="color:red;">**All 14 participants**</mark>
+| Participating Classes:                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><ul><li>Novice, Knight/Crusader, Hunter,Bard/Dancer, Wizard, Sage, Blacksmith/Alchemist, Rogue/ Assasin, Priest/Monk.</li><li>In total, <strong>there will be 14 winners</strong></li></ul> |
 
 ## **How to check the rank**
 
@@ -19,10 +21,6 @@ description: >-
 * “Check Recent”, “List by Class”, “Rewards”.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>NPC LEVEL RACE</strong></mark></p></figcaption></figure>
-
-| Participating Classes:                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p></p><ul><li>Novice, Knight, Crusader, Hunter, Bard/Dancer, Wizard, Sage, Blacksmith, Alchemist, Rogue, Assasin, Priest, Monk.</li><li>In total, <strong>there will be 14 winners</strong></li></ul> |
 
 ## Rewards
 
