@@ -8,11 +8,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## Exclusive Visuals of the race Winners
+## Modalities and Rules
 
-| Participating Classes:                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><ul><li>Novice, Knight/Crusader, Hunter,Bard/Dancer, Wizard, Sage, Blacksmith/Alchemist, Rogue/ Assasin, Priest/Monk.</li><li>In total, <strong>there will be 14 winners</strong></li></ul> |
+| Information                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><mark style="color:red;"><strong>Participating Classes:</strong></mark></p><p></p><ul><li>Novice, Knight/Crusader, Hunter,Bard/Dancer, Wizard, Sage, Blacksmith/Alchemist, Rogue/ Assasin, Priest/Monk.</li></ul><p></p><p><mark style="color:red;"><strong>Places</strong></mark><br></p><ul><li>Each class will have a 1st and 2nd place <strong>(2 winners per class)</strong>.</li><li>In total, <strong>there will be 28 winners</strong></li></ul><p></p> |
 
 ## **How to check the rank**
 
