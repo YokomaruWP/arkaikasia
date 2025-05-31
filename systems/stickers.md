@@ -7,7 +7,7 @@ description: How about making your chat more fun with **stickers**?
 * **Stickers** can be obtained from the <mark style="color:red;">**Cube Points Shop**</mark>.
 * Every month, the **three stickers** available in the shop change. However, if you’re impatient and like to test your luck, you can purchase a <mark style="color:red;">**Random Sticker Sphere**</mark> <mark style="color:red;"></mark><mark style="color:red;">for</mark> <mark style="color:red;"></mark><mark style="color:red;">**2500 CP**</mark>.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to Use Stickers?**
 

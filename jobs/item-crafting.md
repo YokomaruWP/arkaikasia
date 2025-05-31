@@ -18,7 +18,7 @@ description: >-
 * **Archers** can create various types of **arrows**, each with different **elemental** properties and status effects.
 * To craft arrows, simply open **ALT+S** and select the **"Make Arrow"** skill.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Illustrative image of an "Archer"</strong></mark></p></figcaption></figure>
 
 ### Arrow
 
@@ -26,19 +26,19 @@ description: >-
 
 ### **Iron Arrow**
 
-<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
+<table><thead><tr><th width="213">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><a href="https://arkaikonline.com/database/items?search=920"><img src="https://wiki.arkaikonline.com/images/3/3a/Garra_de_lobo.png" alt="Garra de lobo.png"></a> Wolf Claw</td><td>10</td></tr><tr><td><a href="https://arkaikonline.com/database/items?search=1041"><img src="https://wiki.arkaikonline.com/images/e/e3/Lampi%C3%A3o.png" alt="Lampião.png"></a> Lantern</td><td>100</td></tr><tr><td><img src="../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="original"> Iron Ore</td><td>170</td></tr><tr><td><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="original">Iron</td><td>500</td></tr></tbody></table>
 
 ### **Wind Arrow**
 
-<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="214">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original"> Harpie Feather</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="original"> Breeze of Wind</td><td>400</td></tr><tr><td><img src="../.gitbook/assets/image (13) (1) (1).png" alt="" data-size="original"> Rough Wind</td><td>1500</td></tr></tbody></table>
 
 ### Oridecon Arrow
 
-<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="305">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (14) (1).png" alt="" data-size="original"> Oridecon Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="original"> Clock Tower Key</td><td>600</td></tr><tr><td><img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="original"> Oridecon</td><td>1500</td></tr></tbody></table>
 
 ### Steel Arrow
 
-<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
+<table><thead><tr><th width="257">Item</th><th>Produced Quantity</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="original"> Steel</td><td>150</td></tr><tr><td><img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="original"> Elunium Ore</td><td>250</td></tr><tr><td><img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="original"> Elunium</td><td>1500</td></tr></tbody></table>
 
 ### Crystal Arrow
 

@@ -24,7 +24,7 @@ layout:
 * They are responsible for listing all items on the server in a single place.
 * To list an item on the market, you need to be a “[Merchant](jobs/class-guides/merchant.md)”.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Global Market NPC.</strong></mark></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Global Market NPC.</strong></mark></p></figcaption></figure>
 
 ## **How to use the Market**
 

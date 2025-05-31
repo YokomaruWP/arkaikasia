@@ -22,7 +22,7 @@ You can start your adventure by watching the video below:
 
 {% tabs %}
 {% tab title="Tia Lupina	" %}
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><mark style="color:red;"><strong>She will tell you some stories and ask you to head to the castle.</strong></mark><br><mark style="color:red;"><strong>The path will be marked on the ground—just follow it.</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>She will tell you some stories and ask you to head to the castle.</strong></mark><br><mark style="color:red;"><strong>The path will be marked on the ground—just follow it.</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Mini-Map" %}
