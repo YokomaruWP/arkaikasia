@@ -12,7 +12,7 @@ description: >-
 * Whenever you obtain one of the items, **it will be announced in your game chat**.
 * <mark style="color:red;">**Collection progress is shared across all your characters**</mark>, so how about exploring different maps with your next character and completing the entire collection?
 
-<figure><img src="../.gitbook/assets/Cole2 (1).png" alt=""><figcaption><p><mark style="color:red;"><strong>Aperte ALT+C para abrir a tela de Coleções</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (581).png" alt=""><figcaption><p><mark style="color:red;"><strong>Press ALT+C to open the Collections screen.</strong></mark></p></figcaption></figure>
 
 ## **Total Accumulated Bonus from Collections**
 
