@@ -6,10 +6,10 @@ description: >-
 
 # 🛍️ Shop
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="cosmetics/" %}
+[cosmetics](cosmetics/)
 {% endcontent-ref %}
 
 ## **How to Buy CubePoints?**
