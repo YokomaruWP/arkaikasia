@@ -94,6 +94,12 @@
 
 * [🎫 Battle Pass](cashshop/battle-pass.md)
 * [🛍️ Shop](cashshop/shop.md)
+* [🎁 Cosmetics](cashshop/cosmetics.md)
+* [🔮 June | 2025](cashshop/june-or-2025/README.md)
+  * [🟩 (Top/Head) | June](cashshop/june-or-2025/top-head-or-june.md)
+  * [🟩 (Middle/Vision) | June](cashshop/june-or-2025/middle-vision-or-june.md)
+  * [🟩 (Bottom/Mouth) | June](cashshop/june-or-2025/bottom-mouth-or-june.md)
+  * [🟩 (Cover) | June](cashshop/june-or-2025/cover-or-june.md)
 
 ## NEW EPISODES
 
